@@ -20,14 +20,14 @@ main:
 categories:
   - title: "Backend"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "Java"
+        url: /categories/java/
+      - title: "Spring"
+        url: /categories/spring/
+      - title: "JSP"
+        url: /categories/jsp/
+      - title: "AWS"
+        url: /categories/aws/
 
   - title: "Frontend"
     children:
