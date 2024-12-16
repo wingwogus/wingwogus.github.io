@@ -31,8 +31,8 @@ categories:
 
   - title: "Frontend"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
+      - title: "Vue"
+        url: /categories/vue/
       - title: "Categories6"
         url: /categories/categories6/
 
