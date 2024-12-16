@@ -33,10 +33,8 @@ categories:
     children:
       - title: "Vue"
         url: /categories/vue/
-      - title: "Categories6"
-        url: /categories/categories6/
-
+        
   - title: "CS"
     children:
-      - title: "Categories7"
-        url: /categories/categories7/
+      - title: "Computer Structure"
+        url: /categories/computer-structure/
