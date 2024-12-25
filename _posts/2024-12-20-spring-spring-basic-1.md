@@ -1,5 +1,5 @@
 ---
-title: "[Spring] 구현체, 내가 어디까지 해줘야 해? (1)"
+title: "[Spring] 구현체, 내가 어디까지 해줘야 해? (1) - 컨테이너너"
 excerpt: "AppConfig의 등장"
 
 categories:
