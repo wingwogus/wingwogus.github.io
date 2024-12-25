@@ -1,13 +1,13 @@
 ---
 title: "[Spring] 혼자야? 어, 나 싱글톤이야 - 싱글톤 패턴"
-excerpt: "스프링 컨테이너, 더욱 강력한 관리자의 등장"
+excerpt: "하나의 빈을 여러 사용자가 동시에 요청하면 어떻게 될까?"
 
 categories:
   - Spring
 tags:
   - [spring, singleton]
 
-permalink: /spring/spring-basic-3/
+permalink: /spring/spring-singleton/
 
 toc: true
 toc_sticky: true

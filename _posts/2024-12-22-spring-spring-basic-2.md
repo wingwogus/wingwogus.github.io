@@ -1,5 +1,5 @@
 ---
-title: "[Spring] 구현체, 내가 어디까지 해줘야 해? (2) - 스프링 컨테이너너"
+title: "[Spring] 구현체, 내가 어디까지 해줘야 해? (2) - 스프링 컨테이너"
 excerpt: "스프링 컨테이너, 더욱 강력한 관리자의 등장"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [spring, OCP, DI]
 
-permalink: /spring/spring-basic-2/
+permalink: /spring/spring-spring-contaier/
 
 toc: true
 toc_sticky: true
