@@ -12,8 +12,8 @@ permalink: /spring/spring-dependency-injection/
 toc: true
 toc_sticky: true
 
-date: 2024-12-28
-last_modified_at: 2024-12-28
+date: 2024-12-26
+last_modified_at: 2024-12-26
 ---
 **본 게시글은 김영한님의 인프런 [스프링 핵심 원리 - 기본편]을 바탕으로 한 공부 내용을 작성한 글입니다.**
 
