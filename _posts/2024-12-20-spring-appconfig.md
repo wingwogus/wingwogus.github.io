@@ -1,5 +1,5 @@
 ---
-title: "[Spring] 구현체, 내가 어디까지 해줘야 해? (1) - 컨테이너"
+title: "[Spring] 구현체, 내가 어디까지 해줘야 해? (1) - AppConfig"
 excerpt: "AppConfig의 등장"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [spring, OCP, DI]
 
-permalink: /spring/spring-container/
+permalink: /spring/spring-appconfig/
 
 toc: true
 toc_sticky: true
