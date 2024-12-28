@@ -1,5 +1,5 @@
 ---
-title: "[Spring] 선생님 저 언제 죽나요? - 빈 생명 주기"
+title: "[Spring] 흘러가는대로 사는 인생 - 빈 생명 주기"
 excerpt: "스프링 빈은 언제 생성되고 언제 소멸되는걸까?"
 
 categories:
