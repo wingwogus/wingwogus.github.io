@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /vue/about-memory/
+permalink: /computer-structure/about-memory/
 
 toc: true
 toc_sticky: true
