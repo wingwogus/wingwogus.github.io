@@ -7,7 +7,7 @@ categories:
 tags:
   - [spring, component]
 
-permalink: /spring/spring-component-scan/
+permalink: /spring/component-scan/
 
 toc: true
 toc_sticky: true

@@ -7,7 +7,7 @@ categories:
 tags:
   - [spring, OCP, DI]
 
-permalink: /spring/spring-container/
+permalink: /spring/container/
 
 toc: true
 toc_sticky: true

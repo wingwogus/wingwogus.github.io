@@ -36,5 +36,7 @@ categories:
         
   - title: "CS"
     children:
+      - title: "HTTP"
+        url: /categories/http/
       - title: "Computer Structure"
         url: /categories/computer-structure/

@@ -7,7 +7,7 @@ categories:
 tags:
   - [spring, singleton]
 
-permalink: /spring/spring-singleton/
+permalink: /spring/singleton/
 
 toc: true
 toc_sticky: true
