@@ -83,9 +83,9 @@ JPA를 실행하기 위한 설정 파일로써 데이터베이스 종류, 하이
 ```java
 @Entity
 public class Member {
-		@Id
-		private Long id;
-		private String name;
+	@Id
+	private Long id;
+	private String name;
 }
 ```
 
