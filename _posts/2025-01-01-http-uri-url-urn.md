@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2025-01-01
-last_modified_at: 2024-01-01
+last_modified_at: 2025-01-01
 ---
 ## 각 개념에 대해 정리해보자
 
