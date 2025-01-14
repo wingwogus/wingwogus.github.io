@@ -24,8 +24,8 @@ categories:
         url: /categories/java/
       - title: "Spring"
         url: /categories/spring/
-      - title: "JSP"
-        url: /categories/jsp/
+      - title: "JPA"
+        url: /categories/jpa/
       - title: "AWS"
         url: /categories/aws/
 

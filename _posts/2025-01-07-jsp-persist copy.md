@@ -1,13 +1,13 @@
 ---
-title: "[JSP] 내가 왜 persist인지 알려줄게 - 영속성 관리"
-excerpt: "JSP를 한다면 영속성에 대해선 마스터해야 인지상정"
+title: "[JPA] 내가 왜 persist인지 알려줄게 - 영속성 관리"
+excerpt: "JPA를 한다면 영속성에 대해선 마스터해야 인지상정"
 
 categories:
-  - JSP
+  - JPA
 tags:
-  - [jsp, db, context, persist]
+  - [jpa, db, context, persist]
 
-permalink: /jsp/persist/
+permalink: /jpa/persist/
 
 toc: true
 toc_sticky: true

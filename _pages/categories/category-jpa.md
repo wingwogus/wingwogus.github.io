@@ -1,9 +1,9 @@
 ---
-title: "JSP"
+title: "JPA"
 layout: category
-permalink: /categories/jsp/
+permalink: /categories/jpa/
 author_profile: true
-taxonomy: JSP
+taxonomy: JPA
 sidebar:
   nav: "categories"
 ---
