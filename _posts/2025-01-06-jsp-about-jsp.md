@@ -3,7 +3,7 @@ title: "[JSP] 모든 게 객체인 세상 - JPA 개요"
 excerpt: "JSP는 어떻게 알아서 데이터베이스를 구성할까?"
 
 categories:
-  - ,JSP
+  - JSP
 tags:
   - [jsp, db, entity]
 
